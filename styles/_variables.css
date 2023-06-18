@@ -1,0 +1,39 @@
+:root {
+  --tw-color-opacity: 1;
+  --tw-border-opacity: 1;
+  --tw-bg-opacity: 1;
+
+  --color-primary: 0, 166, 105; /* #00a669 */
+
+  --color-green-01: 196, 236, 221; /* #c4ecdd */
+  --color-blue-01: 126, 191, 219; /* #7ebfdb */
+  --color-red-01: 203, 53, 53; /* #cb3535 */
+  --color-blue-02: 36, 169, 225; /* #24a9e1 */
+  --color-orange-01: 255, 164, 18; /* #ffa412 */
+
+  --color-green-02: 146, 208, 80; /* #92d050 */
+  --color-orange-02: 240, 190, 74; /* #F0BE4A */
+  --color-yellow-01: 183, 186, 42; /* #b7ba2a */
+  --color-yellow-02: 247, 248, 197; /* #f7f8c5 */
+  --color-red-02: 230, 96, 94; /* #e6605e */
+
+  --color-info: 36, 169, 225; /* #24a9e1 */
+  --color-error: 230, 96, 94; /* #e6605e */
+  --color-warning: 240, 190, 74; /* #f0be4a */
+  --color-success: 146, 208, 80; /* #92d050 */
+
+  --color-info-light: 230, 236, 247; /* #e6ecf7 */
+  --color-error-light: 243, 235, 230; /* #f3ebe6 */
+  --color-warning-light: 249, 244, 231; /* #f9f4e7 */
+  --color-success-light: 241, 247, 243; /* #f1f7f3 */
+
+  --color-blue-03: 228, 247, 255; /* #e4f7ff */
+
+  --color-black: 34, 34, 34; /* #222222 */
+  --color-gray-01: 109, 109, 109; /* #6d6d6d */
+  --color-gray-02: 123, 123, 123; /* #7b7b7b */
+  --color-gray-03: 200, 200, 200; /* #c8c8c8 */
+  --color-gray-04: 217, 217, 217; /* #d9d9d9 */
+  --color-gray-05: 246, 246, 246; /* #f6f6f6 */
+  --color-white: 255, 255, 255; /* #ffffff */
+}

@@ -1,0 +1,28 @@
+export const HTTP_STATUS_CODE = {
+  CONTINUE: 100,
+  PROCESSING: 102,
+  OK: 200,
+  CREATED: 201,
+  ACCEPTED: 202,
+  NON_AUTHORITATIVE_INFORMATION: 203,
+  NO_CONTENT: 204,
+  BAD_REQUEST: 400,
+  UNAUTHORIZED: 401,
+  PAYMENT_REQUIRED: 402,
+  FORBIDDEN: 403,
+  NOT_FOUND: 404,
+  METHOD_NOT_ALLOWED: 405,
+  NOT_ACCEPTABLE: 406,
+  PROXY_AUTHENTICATION_REQUIRED: 407,
+  REQUEST_TIMEOUT: 408,
+  INTERNAL_SERVER_ERROR: 500,
+  NOT_IMPLEMENTED: 501,
+  BAD_GATEWAY: 502
+};
+
+export const CLIENT_STATUS_CODE = {
+  rehash_buyorder_error_005: 'rehash-buyorder-error-005',
+  rehash_error_auth_400001: 'rehash-error-auth-400001',
+  rehash_error_payment_information_400004:
+    'rehash-error-payment-information-400004'
+};

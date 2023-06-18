@@ -1,0 +1,575 @@
+.color-primary {
+  color: rgba(var(--color-primary), var(--tw-color-opacity));
+}
+
+.color-green-01 {
+  color: rgba(var(--color-green-01), var(--tw-color-opacity));
+}
+.color-green {
+  color: var(--color-green);
+}
+.color-blue-01 {
+  color: rgba(var(--color-blue-01), var(--tw-color-opacity));
+}
+.color-red-01 {
+  color: rgba(var(--color-red-01), var(--tw-color-opacity));
+}
+.color-blue-02 {
+  color: rgba(var(--color-blue-02), var(--tw-color-opacity));
+}
+.color-orange-01 {
+  color: rgba(var(--color-orange-01), var(--tw-color-opacity));
+}
+
+.color-info {
+  color: rgba(var(--color-info), var(--tw-color-opacity));
+}
+.color-error {
+  color: rgba(var(--color-error), var(--tw-color-opacity));
+}
+.color-warning {
+  color: rgba(var(--color-warning), var(--tw-color-opacity));
+}
+.color-success {
+  color: rgba(var(--color-success), var(--tw-color-opacity));
+}
+.color-blue-03 {
+  color: rgba(var(--color-blue-03), var(--tw-color-opacity));
+}
+
+.color-black {
+  color: rgba(var(--color-black), var(--tw-color-opacity));
+}
+.color-gray-01 {
+  color: rgba(var(--color-gray-01), var(--tw-color-opacity));
+}
+.color-gray-02 {
+  color: rgba(var(--color-gray-02), var(--tw-color-opacity));
+}
+.color-gray-03 {
+  color: rgba(var(--color-gray-03), var(--tw-color-opacity));
+}
+.color-gray-04 {
+  color: rgba(var(--color-gray-04), var(--tw-color-opacity));
+}
+.color-gray-05 {
+  color: rgba(var(--color-gray-05), var(--tw-color-opacity));
+}
+.color-white {
+  color: rgba(var(--color-white), var(--tw-color-opacity));
+}
+
+.bg-primary {
+  background-color: rgba(var(--color-primary), var(--tw-bg-opacity));
+}
+.bg-primary-80 {
+  background-color: rgba(var(--color-primary-80), var(--tw-bg-opacity));
+}
+
+.bg-green {
+  background-color: var(--color-green);
+}
+.bg-green-90 {
+  background-color: var(--color-green-90);
+}
+.bg-green-80 {
+  background-color: var(--color-green-80);
+}
+.bg-green-70 {
+  background-color: var(--color-green-70);
+}
+.bg-green-60 {
+  background-color: var(--color-green-60);
+}
+.bg-green-dark {
+  background-color: var(--color-green-dark);
+}
+
+.bg-green-01 {
+  background-color: rgba(var(--color-green-01), var(--tw-bg-opacity));
+}
+.bg-blue-01 {
+  background-color: rgba(var(--color-blue-01), var(--tw-bg-opacity));
+}
+.bg-blue {
+  background-color: var(--color-blue);
+}
+.bg-blue-90 {
+  background-color: var(--color-blue-90);
+}
+.bg-blue-80 {
+  background-color: var(--color-blue-80);
+}
+.bg-blue-70 {
+  background-color: var(--color-blue-70);
+}
+.bg-blue-60 {
+  background-color: var(--color-blue-60);
+}
+.bg-blue-dark {
+  background-color: var(--color-blue-dark);
+}
+
+.bg-red-01 {
+  background-color: rgba(var(--color-red-01), var(--tw-bg-opacity));
+}
+.bg-red {
+  background-color: var(--color-red);
+}
+.bg-red-80 {
+  background-color: var(--color-red-80);
+}
+.bg-red-dark {
+  background-color: var(--color-red-dar);
+}
+
+.bg-blue-02 {
+  background-color: rgba(var(--color-blue-02), var(--tw-bg-opacity));
+}
+.bg-orange-01 {
+  background-color: rgba(var(--color-orange-01), var(--tw-bg-opacity));
+}
+
+.bg-info {
+  background-color: rgba(var(--color-info), var(--tw-bg-opacity));
+}
+.bg-error {
+  background-color: rgba(var(--color-error), var(--tw-bg-opacity));
+}
+.bg-warning {
+  background-color: rgba(var(--color-warning), var(--tw-bg-opacity));
+}
+.bg-success {
+  background-color: rgba(var(--color-success), var(--tw-bg-opacity));
+}
+.bg-blue-03 {
+  background-color: rgba(var(--color-blue-03), var(--tw-bg-opacity));
+}
+
+.bg-black {
+  background-color: rgba(var(--color-black), var(--tw-bg-opacity));
+}
+.bg-gray-01 {
+  background-color: rgba(var(--color-gray-01), var(--tw-bg-opacity));
+}
+.bg-gray-02 {
+  background-color: rgba(var(--color-gray-02), var(--tw-bg-opacity));
+}
+.bg-gray-03 {
+  background-color: rgba(var(--color-gray-03), var(--tw-bg-opacity));
+}
+.bg-gray-04 {
+  background-color: rgba(var(--color-gray-04), var(--tw-bg-opacity));
+}
+.bg-gray-05 {
+  background-color: rgba(var(--color-gray-05), var(--tw-bg-opacity));
+}
+.bg-white {
+  background-color: rgba(var(--color-white), var(--tw-bg-opacity));
+}
+
+.hover\:color-primary:hover {
+  color: rgba(var(--color-primary), var(--tw-color-opacity));
+}
+
+.hover\:color-green-01:hover {
+  color: rgba(var(--color-green-01), var(--tw-color-opacity));
+}
+.hover\:color-blue-01:hover {
+  color: rgba(var(--color-blue-01), var(--tw-color-opacity));
+}
+.hover\:color-red-01:hover {
+  color: rgba(var(--color-red-01), var(--tw-color-opacity));
+}
+.hover\:color-blue-02:hover {
+  color: rgba(var(--color-blue-02), var(--tw-color-opacity));
+}
+.hover\:color-orange-01:hover {
+  color: rgba(var(--color-orange-01), var(--tw-color-opacity));
+}
+
+.hover\:color-info:hover {
+  color: rgba(var(--color-info), var(--tw-color-opacity));
+}
+.hover\:color-error:hover {
+  color: rgba(var(--color-error), var(--tw-color-opacity));
+}
+.hover\:color-warning:hover {
+  color: rgba(var(--color-warning), var(--tw-color-opacity));
+}
+.hover\:color-success:hover {
+  color: rgba(var(--color-success), var(--tw-color-opacity));
+}
+.hover\:color-blue-03:hover {
+  color: rgba(var(--color-blue-03), var(--tw-color-opacity));
+}
+
+.hover\:color-black:hover {
+  color: rgba(var(--color-black), var(--tw-color-opacity));
+}
+.hover\:color-gray-01:hover {
+  color: rgba(var(--color-gray-01), var(--tw-color-opacity));
+}
+.hover\:color-gray-02:hover {
+  color: rgba(var(--color-gray-02), var(--tw-color-opacity));
+}
+.hover\:color-gray-03:hover {
+  color: rgba(var(--color-gray-03), var(--tw-color-opacity));
+}
+.hover\:color-gray-04:hover {
+  color: rgba(var(--color-gray-04), var(--tw-color-opacity));
+}
+.hover\:color-gray-05:hover {
+  color: rgba(var(--color-gray-05), var(--tw-color-opacity));
+}
+.hover\:color-white:hover {
+  color: rgba(var(--color-white), var(--tw-color-opacity));
+}
+
+.hover\:bg-primary:hover {
+  background-color: rgba(var(--color-primary), var(--tw-bg-opacity));
+}
+.hover\:bg-primary-80:hover {
+  background-color: rgba(var(--color-primary-80), var(--tw-bg-opacity));
+}
+
+.hover\:bg-green-01:hover {
+  background-color: rgba(var(--color-green-01), var(--tw-bg-opacity));
+}
+.hover\:bg-blue-01:hover {
+  background-color: rgba(var(--color-blue-01), var(--tw-bg-opacity));
+}
+.hover\:bg-red-01:hover {
+  background-color: rgba(var(--color-red-01), var(--tw-bg-opacity));
+}
+.hover\:bg-blue-02:hover {
+  background-color: rgba(var(--color-blue-02), var(--tw-bg-opacity));
+}
+.hover\:bg-orange-01:hover {
+  background-color: rgba(var(--color-orange-01), var(--tw-bg-opacity));
+}
+
+.hover\:bg-info:hover {
+  background-color: rgba(var(--color-info), var(--tw-bg-opacity));
+}
+.hover\:bg-error:hover {
+  background-color: rgba(var(--color-error), var(--tw-bg-opacity));
+}
+.hover\:bg-warning:hover {
+  background-color: rgba(var(--color-warning), var(--tw-bg-opacity));
+}
+.hover\:bg-success:hover {
+  background-color: rgba(var(--color-success), var(--tw-bg-opacity));
+}
+.hover\:bg-blue-03:hover {
+  background-color: rgba(var(--color-blue-03), var(--tw-bg-opacity));
+}
+
+.hover\:bg-black:hover {
+  background-color: rgba(var(--color-black), var(--tw-bg-opacity));
+}
+.hover\:bg-gray-01:hover {
+  background-color: rgba(var(--color-gray-01), var(--tw-bg-opacity));
+}
+.hover\:bg-gray-02:hover {
+  background-color: rgba(var(--color-gray-02), var(--tw-bg-opacity));
+}
+.hover\:bg-gray-03:hover {
+  background-color: rgba(var(--color-gray-03), var(--tw-bg-opacity));
+}
+.hover\:bg-gray-04:hover {
+  background-color: rgba(var(--color-gray-04), var(--tw-bg-opacity));
+}
+.hover\:bg-gray-05:hover {
+  background-color: rgba(var(--color-gray-05), var(--tw-bg-opacity));
+}
+.hover\:bg-white:hover {
+  background-color: rgba(var(--color-white), var(--tw-bg-opacity));
+}
+
+.group:hover.hover\:color-primary:hover {
+  color: rgba(var(--color-primary), var(--tw-color-opacity));
+}
+
+.group:hover.hover\:color-green-01:hover {
+  color: rgba(var(--color-green-01), var(--tw-color-opacity));
+}
+.group:hover.hover\:color-blue-01:hover {
+  color: rgba(var(--color-blue-01), var(--tw-color-opacity));
+}
+.group:hover.hover\:color-red-01:hover {
+  color: rgba(var(--color-red-01), var(--tw-color-opacity));
+}
+.group:hover.hover\:color-blue-02:hover {
+  color: rgba(var(--color-blue-02), var(--tw-color-opacity));
+}
+.group:hover.hover\:color-orange-01:hover {
+  color: rgba(var(--color-orange-01), var(--tw-color-opacity));
+}
+
+.group:hover.hover\:color-info:hover {
+  color: rgba(var(--color-info), var(--tw-color-opacity));
+}
+.group:hover.hover\:color-error:hover {
+  color: rgba(var(--color-error), var(--tw-color-opacity));
+}
+.group:hover.hover\:color-warning:hover {
+  color: rgba(var(--color-warning), var(--tw-color-opacity));
+}
+.group:hover.hover\:color-success:hover {
+  color: rgba(var(--color-success), var(--tw-color-opacity));
+}
+.group:hover.hover\:color-blue-03:hover {
+  color: rgba(var(--color-blue-03), var(--tw-color-opacity));
+}
+
+.group:hover.hover\:color-black:hover {
+  color: rgba(var(--color-black), var(--tw-color-opacity));
+}
+.group:hover.hover\:color-gray-01:hover {
+  color: rgba(var(--color-gray-01), var(--tw-color-opacity));
+}
+.group:hover.hover\:color-gray-02:hover {
+  color: rgba(var(--color-gray-02), var(--tw-color-opacity));
+}
+.group:hover.hover\:color-gray-03:hover {
+  color: rgba(var(--color-gray-03), var(--tw-color-opacity));
+}
+.group:hover.hover\:color-gray-04:hover {
+  color: rgba(var(--color-gray-04), var(--tw-color-opacity));
+}
+.group:hover.hover\:color-gray-05:hover {
+  color: rgba(var(--color-gray-05), var(--tw-color-opacity));
+}
+.group:hover.hover\:color-white:hover {
+  color: rgba(var(--color-white), var(--tw-color-opacity));
+}
+
+.group:hover.hover\:bg-primary:hover {
+  background-color: rgba(var(--color-primary), var(--tw-bg-opacity));
+}
+.group:hover.hover\:bg-primary-80:hover {
+  background-color: rgba(var(--color-primary-80), var(--tw-bg-opacity));
+}
+
+.group:hover.hover\:bg-green-01:hover {
+  background-color: rgba(var(--color-green-01), var(--tw-bg-opacity));
+}
+.group:hover.hover\:bg-blue-01:hover {
+  background-color: rgba(var(--color-blue-01), var(--tw-bg-opacity));
+}
+.group:hover.hover\:bg-red-01:hover {
+  background-color: rgba(var(--color-red-01), var(--tw-bg-opacity));
+}
+.group:hover.hover\:bg-blue-02:hover {
+  background-color: rgba(var(--color-blue-02), var(--tw-bg-opacity));
+}
+.group:hover.hover\:bg-orange-01:hover {
+  background-color: rgba(var(--color-orange-01), var(--tw-bg-opacity));
+}
+
+.group:hover.hover\:bg-info:hover {
+  background-color: rgba(var(--color-info), var(--tw-bg-opacity));
+}
+.group:hover.hover\:bg-error:hover {
+  background-color: rgba(var(--color-error), var(--tw-bg-opacity));
+}
+.group:hover.hover\:bg-warning:hover {
+  background-color: rgba(var(--color-warning), var(--tw-bg-opacity));
+}
+.group:hover.hover\:bg-success:hover {
+  background-color: rgba(var(--color-success), var(--tw-bg-opacity));
+}
+.group:hover.hover\:bg-blue-03:hover {
+  background-color: rgba(var(--color-blue-03), var(--tw-bg-opacity));
+}
+
+.group:hover.hover\:bg-black:hover {
+  background-color: rgba(var(--color-black), var(--tw-bg-opacity));
+}
+.group:hover.hover\:bg-gray-01:hover {
+  background-color: rgba(var(--color-gray-01), var(--tw-bg-opacity));
+}
+.group:hover.hover\:bg-gray-02:hover {
+  background-color: rgba(var(--color-gray-02), var(--tw-bg-opacity));
+}
+.group:hover.hover\:bg-gray-03:hover {
+  background-color: rgba(var(--color-gray-03), var(--tw-bg-opacity));
+}
+.group:hover.hover\:bg-gray-04:hover {
+  background-color: rgba(var(--color-gray-04), var(--tw-bg-opacity));
+}
+.group:hover.hover\:bg-gray-05:hover {
+  background-color: rgba(var(--color-gray-05), var(--tw-bg-opacity));
+}
+.group:hover.hover\:bg-white:hover {
+  background-color: rgba(var(--color-white), var(--tw-bg-opacity));
+}
+
+.group:hover .group-hover\:color-primary {
+  color: rgba(var(--color-primary), var(--tw-color-opacity));
+}
+
+.group:hover .group-hover\:color-green-01 {
+  color: rgba(var(--color-green-01), var(--tw-color-opacity));
+}
+.group:hover .group-hover\:color-blue-01 {
+  color: rgba(var(--color-blue-01), var(--tw-color-opacity));
+}
+.group:hover .group-hover\:color-red-01 {
+  color: rgba(var(--color-red-01), var(--tw-color-opacity));
+}
+.group:hover .group-hover\:color-blue-02 {
+  color: rgba(var(--color-blue-02), var(--tw-color-opacity));
+}
+.group:hover .group-hover\:color-orange-01 {
+  color: rgba(var(--color-orange-01), var(--tw-color-opacity));
+}
+
+.group:hover .group-hover\:color-info {
+  color: rgba(var(--color-info), var(--tw-color-opacity));
+}
+.group:hover .group-hover\:color-error {
+  color: rgba(var(--color-error), var(--tw-color-opacity));
+}
+.group:hover .group-hover\:color-warning {
+  color: rgba(var(--color-warning), var(--tw-color-opacity));
+}
+.group:hover .group-hover\:color-success {
+  color: rgba(var(--color-success), var(--tw-color-opacity));
+}
+.group:hover .group-hover\:color-blue-03 {
+  color: rgba(var(--color-blue-03), var(--tw-color-opacity));
+}
+
+.group:hover .group-hover\:color-black {
+  color: rgba(var(--color-black), var(--tw-color-opacity));
+}
+.group:hover .group-hover\:color-gray-01 {
+  color: rgba(var(--color-gray-01), var(--tw-color-opacity));
+}
+.group:hover .group-hover\:color-gray-02 {
+  color: rgba(var(--color-gray-02), var(--tw-color-opacity));
+}
+.group:hover .group-hover\:color-gray-03 {
+  color: rgba(var(--color-gray-03), var(--tw-color-opacity));
+}
+.group:hover .group-hover\:color-gray-04 {
+  color: rgba(var(--color-gray-04), var(--tw-color-opacity));
+}
+.group:hover .group-hover\:color-gray-05 {
+  color: rgba(var(--color-gray-05), var(--tw-color-opacity));
+}
+.group:hover .group-hover\:color-white {
+  color: rgba(var(--color-white), var(--tw-color-opacity));
+}
+
+.group:hover .group-hover\:bg-primary {
+  background-color: rgba(var(--color-primary), var(--tw-bg-opacity));
+}
+.group:hover .group-hover\:bg-primary-80 {
+  background-color: rgba(var(--color-primary-80), var(--tw-bg-opacity));
+}
+
+.group:hover .group-hover\:bg-green-01 {
+  background-color: rgba(var(--color-green-01), var(--tw-bg-opacity));
+}
+.group:hover .group-hover\:bg-blue-01 {
+  background-color: rgba(var(--color-blue-01), var(--tw-bg-opacity));
+}
+.group:hover .group-hover\:bg-red-01 {
+  background-color: rgba(var(--color-red-01), var(--tw-bg-opacity));
+}
+.group:hover .group-hover\:bg-blue-02 {
+  background-color: rgba(var(--color-blue-02), var(--tw-bg-opacity));
+}
+.group:hover .group-hover\:bg-orange-01 {
+  background-color: rgba(var(--color-orange-01), var(--tw-bg-opacity));
+}
+
+.group:hover .group-hover\:bg-info {
+  background-color: rgba(var(--color-info), var(--tw-bg-opacity));
+}
+.group:hover .group-hover\:bg-error {
+  background-color: rgba(var(--color-error), var(--tw-bg-opacity));
+}
+.group:hover .group-hover\:bg-warning {
+  background-color: rgba(var(--color-warning), var(--tw-bg-opacity));
+}
+.group:hover .group-hover\:bg-success {
+  background-color: rgba(var(--color-success), var(--tw-bg-opacity));
+}
+.group:hover .group-hover\:bg-blue-03 {
+  background-color: rgba(var(--color-blue-03), var(--tw-bg-opacity));
+}
+
+.group:hover .group-hover\:bg-black {
+  background-color: rgba(var(--color-black), var(--tw-bg-opacity));
+}
+.group:hover .group-hover\:bg-gray-01 {
+  background-color: rgba(var(--color-gray-01), var(--tw-bg-opacity));
+}
+.group:hover .group-hover\:bg-gray-02 {
+  background-color: rgba(var(--color-gray-02), var(--tw-bg-opacity));
+}
+.group:hover .group-hover\:bg-gray-03 {
+  background-color: rgba(var(--color-gray-03), var(--tw-bg-opacity));
+}
+.group:hover .group-hover\:bg-gray-04 {
+  background-color: rgba(var(--color-gray-04), var(--tw-bg-opacity));
+}
+.group:hover .group-hover\:bg-gray-05 {
+  background-color: rgba(var(--color-gray-05), var(--tw-bg-opacity));
+}
+.group:hover .group-hover\:bg-white {
+  background-color: rgba(var(--color-white), var(--tw-bg-opacity));
+}
+
+.status-new {
+  background-color: rgba(var(--color-gray-04), var(--tw-bg-opacity));
+  padding: 0.3rem 0.8rem;
+  color: rgba(var(--color-gray-01), var(--tw-bg-opacity));
+  border-radius: 1rem;
+  font-weight: 600;
+}
+.status-inprogress {
+  background-color: rgba(var(--color-blue-01), 0.5);
+  padding: 0.3rem 0.8rem;
+  color: rgba(var(--color-blue-02), var(--tw-bg-opacity));
+  border-radius: 1rem;
+  font-weight: 600;
+}
+.status-pending {
+  background-color: rgba(var(--color-warning), 0.5);
+  padding: 0.3rem 0.8rem;
+  color: rgba(var(--color-orange-01), var(--tw-bg-opacity));
+  border-radius: 1rem;
+  font-weight: 600;
+}
+.status-rejected {
+  background-color: rgba(var(--color-error), 0.3);
+  padding: 0.3rem 0.8rem;
+  color: rgba(var(--color-red-01), var(--tw-bg-opacity));
+  border-radius: 1rem;
+  font-weight: 600;
+}
+.status-approved {
+  background-color: rgba(var(--color-success), 0.3);
+  padding: 0.3rem 0.8rem;
+  color: rgba(var(--color-primary), var(--tw-bg-opacity));
+  border-radius: 1rem;
+  font-weight: 600;
+}
+.status-waiting-for-payment {
+  background-color: rgb(var(--color-yellow-02));
+  padding: 0.3rem 0.8rem;
+  color: rgb(var(--color-yellow-01));
+  border-radius: 1rem;
+  font-weight: 600;
+}
+.color-Verified {
+  color: rgb(var(--color-success));
+}
+.color-Failed {
+  color: rgb(var(--color-error));
+}
