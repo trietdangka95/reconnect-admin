@@ -1,5 +1,8 @@
-const FooterPage = () => {
-  return <footer className="footer-page bg-blue-02">Footer</footer>;
+interface Props {
+  className?: string;
+}
+const FooterPage = ({ className }: Props) => {
+  return <footer className={className}>Footer</footer>;
 };
 
 export default FooterPage;
